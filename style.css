@@ -1,1 +1,17 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style:oblique;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
 
+button {
+    background-color:darkslateblue;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
